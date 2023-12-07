@@ -49,7 +49,7 @@
 <script type="text/javascript">
     var i = 0,
         text, text1;
-    text = "The Visioners";
+    text = "Happy Food";
 
     function typing() {
         if (i < text.length) {
