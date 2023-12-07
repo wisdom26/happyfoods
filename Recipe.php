@@ -7,9 +7,9 @@
       <img src="img/ash.jpg" alt="Avatar" style="width:300px;height:300px;">
     </div>
     <div class="flip-card-back">
-      <h1>John Doe</h1> 
-      <p>Architect & Engineer</p> 
-      <p>We love that guy</p>
+      <h1>Food</h1> 
+      <p>Happy Food</p> 
+      <p>We love Happy Food</p>
     </div>
   </div>
 </div>
@@ -20,9 +20,9 @@
       <img src="img/jan.jpg" alt="Avatar" style="width:300px;height:300px;">
     </div>
     <div class="flip-card-back">
-      <h1>John Doe</h1> 
-      <p>Architect & Engineer</p> 
-      <p>We love that guy</p>
+      <h1>Food</h1> 
+      <p>Happy Food</p> 
+      <p>We love Happy Food</p>
     </div>
   </div>
 </div>
@@ -33,9 +33,9 @@
       <img src="img/julie.jpg" alt="Avatar" style="width:300px;height:300px;">
     </div>
     <div class="flip-card-back">
-      <h1>John Doe</h1> 
-      <p>Architect & Engineer</p> 
-      <p>We love that guy</p>
+      <h1>Food</h1> 
+      <p>Happy Food</p> 
+      <p>We love Happy Food</p>
     </div>
   </div>
 </div>
@@ -46,9 +46,9 @@
       <img src="img/valeria.jpg" alt="Avatar" style="width:300px;height:300px;">
     </div>
     <div class="flip-card-back">
-      <h1>John Doe</h1> 
-      <p>Architect & Engineer</p> 
-      <p>We love that guy</p>
+      <h1>Food</h1> 
+      <p>Happy Food</p> 
+      <p>We love Happy Food</p>
     </div>
   </div>
 </div>
